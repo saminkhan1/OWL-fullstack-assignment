@@ -1,6 +1,6 @@
 # Stock Market Dashboard Frontend
 
-A modern, responsive stock market dashboard built with React, TypeScript, and Vite. This application provides real-time stock price visualization with interactive charts and data analysis tools.
+A modern, responsive stock market dashboard built with React, TypeScript, and Vite. This application provides stock price visualization with interactive charts.
 
 
 
