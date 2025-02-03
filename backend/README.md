@@ -11,7 +11,7 @@ A FastAPI-based REST API for serving stock market data. This service provides en
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/saminkhan1/OWL-fullstack-assignment
 cd backend
 ```
 

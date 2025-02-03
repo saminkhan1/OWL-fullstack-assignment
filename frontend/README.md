@@ -13,7 +13,7 @@ A modern, responsive stock market dashboard built with React, TypeScript, and Vi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/saminkhan1/OWL-fullstack-assignment
 cd frontend
 ```
 
