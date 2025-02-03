@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+tests
+pytest.ini
+
+node_modules
+
+.cursorignore
+instructions.txt

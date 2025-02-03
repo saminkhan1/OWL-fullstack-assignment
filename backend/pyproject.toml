@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "stock-api"
+version = "0.1.0"
+description = "Stock Data API"
+requires-python = ">=3.8"
+dependencies = [
+    "fastapi==0.104.1",
+    "uvicorn==0.24.0",
+    "pandas==2.1.3",
+    "pydantic==2.5.2",
+    "python-dateutil==2.8.2",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "."
+]
+testpaths = ["tests"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"] 
